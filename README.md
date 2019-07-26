@@ -1,6 +1,8 @@
 # Simple_Turing_Machine
 A simple Turing machine implemented in java
 
+
+
 Class descriptions:
   MachineProcesses: causing transition from one state to another
   
@@ -11,6 +13,9 @@ Class descriptions:
   TransitionMap and dataSet: classes to simplify the data storage process
   
   
+
+
+
 To-do:
   edit MachinesLibrary so to grab data from external source
   
