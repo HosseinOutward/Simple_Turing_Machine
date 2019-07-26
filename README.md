@@ -4,6 +4,7 @@ A simple Turing machine implemented in java
 
 
 Class descriptions:
+
   MachineProcesses: causing transition from one state to another
   
   TapeType: representing the tape
