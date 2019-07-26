@@ -16,6 +16,7 @@ Class descriptions:
 -------------------
 
 To-do:
+
   +edit MachinesLibrary so to grab data from external source
   
   +make the whole process more efficient
