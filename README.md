@@ -1,7 +1,7 @@
 # Simple_Turing_Machine
 A simple Turing machine implemented in java
 
-
+-------------------
 
 Class descriptions:
 
@@ -12,10 +12,8 @@ Class descriptions:
   MachinesLibrary: grabs machine data (transition function, state names, etc.)
   
   TransitionMap and dataSet: classes to simplify the data storage process
-  
-  
 
-
+-------------------
 
 To-do:
   edit MachinesLibrary so to grab data from external source
